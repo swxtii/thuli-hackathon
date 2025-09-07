@@ -9,7 +9,7 @@
    npm install
    ```
 
-2. Start the app
+2. Start the app:\n
    Download Expo Go on a phone or can be used on a simulator
    Configure fetch endpoints at lines 47 and 64 in src/screen/QuizScreen.tsx (either localhost for simulator or ipv4 address for Expo Go app)
 
